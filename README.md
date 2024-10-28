@@ -97,7 +97,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 1. **Tela Principal**
    
-![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/telaprincipal.png?raw=true)
+![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/telaprincipal.png?raw=true) ![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/resultado.png?raw=true)
 
 Entrada de dados (Potencia, TempoDeUso e Preco), subsequente o cálculo e a apresentação do resultado.
 
