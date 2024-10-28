@@ -16,7 +16,7 @@ O **App Consumo Eletrônico** solicita a entrada de dados para realizar os cálc
 - [x] **Android Studio** (Koala | 2024.1.2)
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
-- [x] **TextView** e **EditText** para entrada e exibição de dados
+- [x] **TextView**, **EditText** e **AlertDialog** para entrada e exibição de dados
 - [x] **Button**   para realizar os cálculos
 
 ## 🛠️ Como Rodar o Projeto
@@ -97,9 +97,9 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 1. **Tela Principal**
    
-![Texto Alternativo](https://github.com/Kist19/AppBurgerAvaliativo/blob/master/principal.png?raw=true)
+![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/telaprincipal.png?raw=true)
 
-Permite que o cliente faça seu cadastro, para que logo em seguida com seu E-mail e senha, possa acessar outras telas.
+Entrada de dados (Potencia, TempoDeUso e Preco), subsequente o cálculo e a apresentação do resultado.
 
 ## 👨‍💻 Desenvolvedores –
 
