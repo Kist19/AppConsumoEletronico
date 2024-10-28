@@ -1,16 +1,14 @@
-# **App Burger**
+# **App Consumo Eletronico**
 
-> Um aplicativo Android de delivery.
+> Aplicativo que faz o calculo de consumo de energia e o consumo associado.
 
 ## 📱 Descrição
 
-O **App Burger** possibilita ao usuário realizar seu cadastro, dando-lhe acesso aos catálogos para que, em seguida, faça seu pedido pelo WhatsApp.
+O **App Consumo Eletrônico** solicita a entrada de dados para realizar os cálculos necessários.
 
 ## 🔧 Funcionalidades
 
-- [x] Entrada de dados (Nome, E-mail, Senha e Telefone)
-- [x] Cadastro de usuário
-- [x] Contato para pedido
+- [x] Entrada de dados (Potencia, TempoDeUso e Preço)
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -19,7 +17,7 @@ O **App Burger** possibilita ao usuário realizar seu cadastro, dando-lhe acesso
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
 - [x] **TextView** e **EditText** para entrada e exibição de dados
-- [x] **Button**   para o cadastro, o acesso e o contato do estabelecimento
+- [x] **Button**   para realizar os cálculos
 
 ## 🛠️ Como Rodar o Projeto
 
@@ -103,22 +101,8 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 Permite que o cliente faça seu cadastro, para que logo em seguida com seu E-mail e senha, possa acessar outras telas.
 
-
-2. **Tela Cadastro**
-
-![Texto Alternativo](https://github.com/Kist19/AppBurgerAvaliativo/blob/master/cadastro.png?raw=true)
-
-
-
-
-3. **Telas de Catalogo**
-
-![Texto Alternativo](https://github.com/Kist19/AppBurgerAvaliativo/blob/master/catalogoa.png?raw=true) ![Texto Alternativo](https://github.com/Kist19/AppBurgerAvaliativo/blob/master/catalogob.png?raw=true) ![Texto Alternativo](https://github.com/Kist19/AppBurgerAvaliativo/blob/master/catalogoc.png?raw=true)
-
-Catálogos que permitem o usúario buscar por seus pedidos atravez dos botões **Voltar** e **Mais...**, com a opção de contato no botão **Fazer pedido**.
-
 ## 👨‍💻 Desenvolvedores –
 
 **Arthur Kist** - Desenvolvedor - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kist19) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-kist-34b176254/) [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kist_19_/)
 
-**Licença** - [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/AppBurgerAvaliativo/blob/master/LICENSE)
+**Licença** - [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/AppConsumoEletronico/blob/master/LICENSE)
