@@ -9,6 +9,7 @@ O **App Consumo Eletrônico** solicita a entrada de dados para realizar os cálc
 ## 🔧 Funcionalidades
 
 - [x] Entrada de dados (Potencia, TempoDeUso e Preço)
+- [x] Calculo de consumo de energia e associado
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -95,11 +96,11 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
  ## 🖥️ Telas do Aplicativo
 
-1. **Tela Principal**
-   
-![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/telaprincipal.png?raw=true) ![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/resultado.png?raw=true)
+## 1. Tela Principal
 
 Entrada de dados (Potencia, TempoDeUso e Preco), subsequente o cálculo e a apresentação do resultado.
+
+![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/telaprincipal.png?raw=true) ![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/resultado.png?raw=true)
 
 ## 👨‍💻 Desenvolvedores –
 
