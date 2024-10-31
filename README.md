@@ -41,7 +41,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 ├── app
 │   ├── src
 │   │   ├── main
-│   │   │  ├── java/br/ulbra/appCalcConsumo
+│   │   │  ├── java/br/ulbra/appcalcconsumo
 │   │   │  │  ├── MainActivity.java          # Atividade principal com appConsumoEletrico
 │   │   │  ├── res
 │   │   │  │   ├── layout
