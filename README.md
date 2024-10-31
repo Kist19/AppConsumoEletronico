@@ -1,6 +1,6 @@
 # **App Consumo Eletronico**
 
-> Aplicativo que faz o calculo de consumo de energia e o consumo associado.
+> Aplicativo que realiza o cálculo de **consumo de energia** e o **consumo associado**.
 
 ## 📱 Descrição
 
@@ -8,8 +8,9 @@ O **App Consumo Eletrônico** solicita a entrada de dados para realizar os cálc
 
 ## 🔧 Funcionalidades
 
-- [x] Entrada de dados (Potencia, TempoDeUso e Preço)
-- [x] Calculo de consumo de energia e associado
+- [x] Entrada de dados (Potencia, TempoDeUso e Preco)
+- [x] Cálculo de consumo de energia e associado
+- [x] apresentação de resultado
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -18,7 +19,7 @@ O **App Consumo Eletrônico** solicita a entrada de dados para realizar os cálc
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
 - [x] **TextView**, **EditText** e **AlertDialog** para entrada e exibição de dados
-- [x] **Button**   para realizar os cálculos
+- [x] **Button** para realizar os cálculos
 
 ## 🛠️ Como Rodar o Projeto
 
