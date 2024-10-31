@@ -10,7 +10,7 @@ O **App Consumo Eletrônico** solicita a entrada de dados para realizar os cálc
 
 - [x] Entrada de dados (Potencia, TempoDeUso e Preco)
 - [x] Cálculo de consumo de energia e associado
-- [x] apresentação de resultado
+- [x] apresentação de resultados
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -39,55 +39,18 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ```bash
 ├── app
-
-
 │   ├── src
-
-
 │   │   ├── main
-
-
-│   │   │   ├──
-java/com/example/imccalculator
-
-
-│   │   │  
-│   ├── MainActivity.java      
-# Atividade principal com cálculo do IMC
-
-
-│   │   │   ├──
-res
-
-
-│   │   │  
-│   ├── layout
-
-
-│   │   │  
-│   │   ├── activity_main.xml   #
-Layout da tela principal
-
-
-│   │   │  
-│   └── values
-
-
-│   │   │  
-│       ├──
-strings.xml         # Strings usadas no
-app
-
-
-│   │   │  
-│       ├── colors.xml          # Cores definidas no projeto
-
-
-│   └── build.gradle                        # Configuração do
-Gradle
-
-
-└── README.md                               # Este arquivo
+│   │   │  ├── java/br/ulbra/appCalcConsumo
+│   │   │  │  ├── MainActivity.java          # Atividade principal com appConsumoEletrico
+│   │   │  ├── res
+│   │   │  │   ├── layout
+│   │   │  │   │   ├── activity_main.xml     #Layout da tela principal
+│   │   │  │   └── values
+│   │   │  │       ├── strings.xml           # Strings usadas no app
+│   │   │  │       ├── colors.xml            # Cores definidas no projeto
+│   └── build.gradle                         # Configuração do Gradle
+└── README.md                                # Este arquivo
 ```
 ## 🎨 Design e Prototipagem
  
@@ -99,7 +62,7 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## 1. Tela Principal
 
-Entrada de dados (Potencia, TempoDeUso e Preco), subsequente o cálculo e a apresentação do resultado.
+Entrada de dados, subsequente o cálculo e a apresentação do resultado.
 
 ![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/telaprincipal.png?raw=true) ![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/resultado.png?raw=true)
 
@@ -107,4 +70,6 @@ Entrada de dados (Potencia, TempoDeUso e Preco), subsequente o cálculo e a apre
 
 **Arthur Kist** - Desenvolvedor - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kist19) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-kist-34b176254/) [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kist_19_/)
 
-**Licença** - [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/AppConsumoEletronico/blob/master/LICENSE)
+## ✅ Licença
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/AppConsumoEletronico/blob/master/LICENSE)
